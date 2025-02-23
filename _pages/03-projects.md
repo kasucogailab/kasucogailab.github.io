@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 ---
 
-<h2>new projects (2024)</h2>
+<h2>new projects (2025)</h2>
 
 Coming soon...
 

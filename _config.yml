@@ -1,12 +1,13 @@
 # Site settings
-title: Decision Lab @ UCSF (Chiong lab)
-name: Decision Lab at UCSF (Chiong lab)
-email: decisionlab@ucsf.edu
+title: KASU Dept of Intelligent Computing
+name:  Cognitive AI Lab @ KASU
+author: Falalu Ibrahim Lawan
+email: dept.inc@kasu.edu.ng
 description: > # this means to ignore newlines until "baseurl:"
   Neuroethics + Decision Neuroscience. Research group headed by Winston Chiong, MD PhD in the 
   University of California, San Francisco Weill Institute for Neurosciences, Memory and Aging Center.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://decisionlab.ucsf.edu
+url: https://kasucogailab.github.io
 last_updated: # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -14,8 +15,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # News
 # -----------------------------------------------------------------------------
-blog_name: Decision Lab @ UCSF
-blog_description: neuroethics + decision neuroscience
+blog_name: KASU Cognitive AI Lab @ INC
+blog_description: Pushing the frontiers of computing education and research, driving sustainable development
 
 # Pagination
 paginate: 6
@@ -29,7 +30,7 @@ text:
 
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
